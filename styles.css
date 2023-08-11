@@ -1,1 +1,56 @@
-/* Write your CSS here! */
+body {
+    text-align: center;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    margin-right: 150px;
+    margin-left: 150px;
+    font-size: 20px;
+}
+
+#testP {
+    color: green;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 55px;
+}
+
+h2 {
+    font-family: 'Lobster', cursive;
+    font-size: 35px;
+}
+
+#mainHeading {
+    color: red;
+}
+
+#cat-header {
+    width: 100%;
+    height: auto;
+}
+
+.cat-photo1 {
+    width: 600px;
+    margin-bottom: 30px;
+    /*rounded corners on photos*/
+    border-radius: 5%;
+}
+
+.cat-photo2 {
+    width: 600px;
+    margin-bottom: 30px;
+    /*rounded corners on photos*/
+    border-radius: 5%;
+
+}
+
+
+.welcome-to-cafe {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
